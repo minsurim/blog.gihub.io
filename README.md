@@ -1,1 +1,1 @@
-# minsurim.gihub.io
+# minsurim.github.io
